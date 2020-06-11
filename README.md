@@ -8,4 +8,4 @@ There are several stages of this project
 4. CNN model with multiple kernels
 5. FastText Character Embeddings model
 
-The project is supported by the https://public.tableau.com/profile/marcela.janowska#!/vizhome/CQCandhiwTextAnalysisandReportsScorePredictionsStory/DissertationStory
+The project is supported by the vizualisation on Tableau Public: https://public.tableau.com/profile/marcela.janowska#!/vizhome/CQCandhiwTextAnalysisandReportsScorePredictionsStory/DissertationStory
